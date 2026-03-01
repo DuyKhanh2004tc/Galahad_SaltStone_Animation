@@ -140,11 +140,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8413529789942519730, guid: a4b4a6d32bcb19248a754d6602ffc7e4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -20.28
+      value: -26.6
       objectReference: {fileID: 0}
     - target: {fileID: 8413529789942519730, guid: a4b4a6d32bcb19248a754d6602ffc7e4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.0927472
+      value: -4.02
       objectReference: {fileID: 0}
     - target: {fileID: 8413529789942519730, guid: a4b4a6d32bcb19248a754d6602ffc7e4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -314,7 +314,9 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 0}
     value: {fileID: 1845527}
-  - key: {fileID: -4004551707757827516, guid: d6dcc55548017314e999582407451f0f, type: 2}
+  - key: {fileID: 5833260314108889198, guid: d6dcc55548017314e999582407451f0f, type: 2}
+    value: {fileID: 1845527}
+  - key: {fileID: -284757193882402031, guid: d6dcc55548017314e999582407451f0f, type: 2}
     value: {fileID: 1845527}
   m_ExposedReferences:
     m_References: []
