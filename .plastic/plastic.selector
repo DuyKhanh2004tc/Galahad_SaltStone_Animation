@@ -1,0 +1,4 @@
+repository "Galahad_SaltStone_Animation/Galahad_SaltStone_Animation@18968364122445@cloud"
+  path "/"
+    br "/main"
+    co "/main"
