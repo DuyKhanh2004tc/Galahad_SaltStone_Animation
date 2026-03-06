@@ -1,0 +1,2182 @@
+fileFormatVersion: 2
+guid: cb70a231f8bba6a469fcb2dc2ad1bb84
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 442
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1da95c5ca283459a1f01c1d0955eb
+      internalID: -1876539248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 442
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ed00d39e068fc4e90df2a6b5b622d4
+      internalID: -1850645498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 442
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21517ffa0c5234c8ba652689492e53
+      internalID: 1708749735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 442
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd86cd8db7396f4fb09b74f460d3025
+      internalID: 1547624836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 442
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995ed1ad276f14944a426347009ca8b0
+      internalID: 801238691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 442
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4d4cd9e33f6747a81e9ec95222192
+      internalID: -329571078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 442
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcae4b6b189b41e4f955b336f4ea662c
+      internalID: -883723996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 442
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb849f88416dee4fba644bf14869b3a
+      internalID: -1192591303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_8
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 442
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7e9a154df893f4a85ba2cd3bc4f9a6
+      internalID: 728033727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_9
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 442
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feef35fe6cb247d4697713065fcbc808
+      internalID: -1323911746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 387
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc1891a2f83a1d4d858a278b6b417d5
+      internalID: 370636928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 387
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47ac24f1f4713641b9821affce954d6
+      internalID: 268205168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 387
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe61ab0d4ac46e40ac767597a6b4bd3
+      internalID: -1862887483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 387
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2949436c6f744aa0bfe39d1582e91
+      internalID: -19073048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 387
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535803af78c5a0b4c8219119baa6b156
+      internalID: 1955610017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 387
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934cb22f75bf41c4b8f81183ae1829c1
+      internalID: 1745792359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_16
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 387
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de06c641a952ca46ae023468cd720c6
+      internalID: 1880502803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 387
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796fa1e394e68f843a2b7389bf6e0416
+      internalID: 691377150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_18
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 387
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee677627b0ae3f46ae24966a6cc6389
+      internalID: 377042495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_19
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 387
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071d84b327927e4bbd4f2f460692fd6
+      internalID: -777625654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 332
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade8a8ff00cb0aa4fa30f8522c954625
+      internalID: 538685123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 341
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b24360e84e704098538990ca47aef
+      internalID: 48374859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 332
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b066da42b3c34e4787393a51d9940ac
+      internalID: 852430448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 332
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fb702c711113342b3fc6b8456604e0
+      internalID: -323030428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 332
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be363f16e1879a046b58b86d1e93cffe
+      internalID: -1833046162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 332
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcb10358b84465409d1b69e638abebb
+      internalID: -1757572124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 332
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f9eb444ae689246aa0212cd5510765
+      internalID: 888507405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_27
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 351
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1699e8cea6e2d484f9de99753cbe317f
+      internalID: -300323657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_28
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 332
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af3743320433a4baf1fc164b705788
+      internalID: -1005435782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_29
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 332
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fa6b95c6acae242aa0c2982f23cc2a
+      internalID: 978315183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_30
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 332
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42589a1b84f8cc44d92d8370f8918c0a
+      internalID: -1525539662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 332
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72250e5af2d04a04aab655e1ed9b7d26
+      internalID: -1186039096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 277
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7239a4fd5b97654fb7aa691bfd1e5e7
+      internalID: 1234368791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 277
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de76df5d396a8f4aa96dccf689739cf
+      internalID: -31122974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 277
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b68cb420ef2184cb8ead8b47dcbf26
+      internalID: 631131763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 282
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f4836f5ced9e940aac2ebd015b6e29
+      internalID: 647706943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_36
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 277
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72320821529b5e4a8d0ceefe12ea317
+      internalID: 1517670638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_37
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 277
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62638fb070f1548499e89954fdc6bd77
+      internalID: -699583869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_38
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 282
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a5f3150db9ed343b3ad01b8213f2f5
+      internalID: -2118465195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_39
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 277
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aa5e94b12dfe44fad5d93680005fd5
+      internalID: 220291780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_40
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 277
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192c7312a10e1a94083895be9cdb46f2
+      internalID: -1485334762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 277
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c85f10dcf7aa541a18a97f88a83aa6
+      internalID: -1692923825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_42
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 277
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da939e5ad8f6d4495c9066a8fc7d8f
+      internalID: -1782497602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_43
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 280
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5da31d2c6fc304bbebebdd0c0c8c18
+      internalID: 1533922744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 227
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed7f5deaa7c0684f92c838cbf04c96a
+      internalID: -474300849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 224
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64bb1b4f365ed74bbf7c3efdbcf0f4a
+      internalID: -1381718421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 224
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae2051f2acecd84e9df0c58b68bf795
+      internalID: 1660635219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_47
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 224
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1683c934a1f278749bdac080b22f7a5e
+      internalID: 1336453025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_48
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 224
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d9e789e224c5641bbe1ed95f6904e5
+      internalID: 1771521648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_49
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 222
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2280df32bd192914382e32ffd5add40a
+      internalID: -1076858805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 222
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6404dc355607bf341aaf7307501c4e56
+      internalID: -1269565325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_51
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 222
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d1d80069c8b8498ed13a77638d782
+      internalID: -1481669744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 222
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d6285a8cea7e7478c001211d141fe3
+      internalID: 948587655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_53
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 222
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e687298f0fcbcb34a8783f1f367dc587
+      internalID: 2010378807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 167
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315edb1836af6c940ae35bf06380d98d
+      internalID: 393006946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_55
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 167
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fc5778e50aab9448514b278b60bb6e
+      internalID: -420639671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 166
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feee9659d68f0a349b2e617367a10435
+      internalID: -1849134987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_57
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 167
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980bb8d94cf55f541974c58933757008
+      internalID: 1163689167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_58
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 167
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfff8f43f53b6d45a15625868a26b56
+      internalID: -2093551324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 167
+        width: 70
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb4a96446c9674bbf5ed3c36869fa0
+      internalID: -1757247107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_60
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 167
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcfc01f48cc98741a854c5bfb32dfff
+      internalID: 504764235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_61
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 167
+        width: 70
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e0056bab5d5542a25246b435b980f
+      internalID: 240457386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_62
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 167
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997f33aaf51ea334b9886b9f2bc65576
+      internalID: -1883982841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_63
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 167
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f702c26ee0578f5449ddf44ebd8f7407
+      internalID: 412216626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 103
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b199bcfa24cc4d4db34e1e83995a182
+      internalID: -364427620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088e61eba283079499412c610d2c898f
+      internalID: -1392231761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_66
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf59ab94e5730a489fb6db72b44bc8a
+      internalID: 410177139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96de5eeb64bbe4ebdee7dccf8c22b5
+      internalID: -1499112425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_68
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 112
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb94d483096c544c8b42130aa3bd194
+      internalID: 1646792250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_69
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 112
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72e0999c1c71214cb08873d57e28f9e
+      internalID: 2123677898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_70
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 112
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3907eb4acf9cac54eaf4e5d3df033ac3
+      internalID: 215139664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_71
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 112
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc8e1fef4b2a714ba4956569c2e5bd7
+      internalID: -845922989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_72
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 112
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f8cde718a54f040a88b9d02cf4daae
+      internalID: -393815535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_73
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 112
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c087e282c0b54746a7bf714c7228746
+      internalID: 496252144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 57
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8bd575483ff2f42bb9f6c669c34af6
+      internalID: 701558126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 57
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65848b7d0b1d8c34c9b0d41bc8b9e736
+      internalID: -39121010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_76
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 57
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18585a9ed19fce42af39e70dad5f072
+      internalID: 1214114853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_77
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 57
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00984b01548d29244acf533acbf75a51
+      internalID: -81078179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 57
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b99a8e1d9cb4d41bd2325fccb4b1a0
+      internalID: 1658127566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_79
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 57
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5729e7c5c85e54cabfb6cc048c6e24
+      internalID: -664227578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 57
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae737ea67826624b8cc95d18b0fbc6a
+      internalID: -1965696721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_81
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 57
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315cad429eda85649940cae975947911
+      internalID: -777840700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_82
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 57
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d120d51a17736448bb9cd41d64969e
+      internalID: 1671043275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_83
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 57
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d06db93a17ce784cbdcbab295c7def0
+      internalID: -717551532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 13
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0b3b20c31b97240b241a80ed2d046c
+      internalID: -1485570722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 11
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd510303548ee42be02fbe133a7a08
+      internalID: 1948090359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_86
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b0f1222a6b6a3479b86963d224ef28
+      internalID: -1768823067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_87
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2710c5555b33fbf41b1170f104fb7a33
+      internalID: -1775375846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_88
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5598a4be6e739b42ae091d44c2129a8
+      internalID: -274182415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_89
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02cd18cf35c9b74ab96beae889e0d7b
+      internalID: -2066772657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_90
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f85554248ce54d8628dc879cee45f
+      internalID: -1539707808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_91
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e7a08359f295643a908d6d63b60208
+      internalID: 43069859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_92
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f691673795ae184fa2f38b6cd958487
+      internalID: 1216338549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight cam cai guong_93
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcca93a6c324e645a3f11758c8852a9
+      internalID: -1035980305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HeroKnight cam cai guong_0: -1876539248
+      HeroKnight cam cai guong_1: -1850645498
+      HeroKnight cam cai guong_10: 370636928
+      HeroKnight cam cai guong_11: 268205168
+      HeroKnight cam cai guong_12: -1862887483
+      HeroKnight cam cai guong_13: -19073048
+      HeroKnight cam cai guong_14: 1955610017
+      HeroKnight cam cai guong_15: 1745792359
+      HeroKnight cam cai guong_16: 1880502803
+      HeroKnight cam cai guong_17: 691377150
+      HeroKnight cam cai guong_18: 377042495
+      HeroKnight cam cai guong_19: -777625654
+      HeroKnight cam cai guong_2: 1708749735
+      HeroKnight cam cai guong_20: 538685123
+      HeroKnight cam cai guong_21: 48374859
+      HeroKnight cam cai guong_22: 852430448
+      HeroKnight cam cai guong_23: -323030428
+      HeroKnight cam cai guong_24: -1833046162
+      HeroKnight cam cai guong_25: -1757572124
+      HeroKnight cam cai guong_26: 888507405
+      HeroKnight cam cai guong_27: -300323657
+      HeroKnight cam cai guong_28: -1005435782
+      HeroKnight cam cai guong_29: 978315183
+      HeroKnight cam cai guong_3: 1547624836
+      HeroKnight cam cai guong_30: -1525539662
+      HeroKnight cam cai guong_31: -1186039096
+      HeroKnight cam cai guong_32: 1234368791
+      HeroKnight cam cai guong_33: -31122974
+      HeroKnight cam cai guong_34: 631131763
+      HeroKnight cam cai guong_35: 647706943
+      HeroKnight cam cai guong_36: 1517670638
+      HeroKnight cam cai guong_37: -699583869
+      HeroKnight cam cai guong_38: -2118465195
+      HeroKnight cam cai guong_39: 220291780
+      HeroKnight cam cai guong_4: 801238691
+      HeroKnight cam cai guong_40: -1485334762
+      HeroKnight cam cai guong_41: -1692923825
+      HeroKnight cam cai guong_42: -1782497602
+      HeroKnight cam cai guong_43: 1533922744
+      HeroKnight cam cai guong_44: -474300849
+      HeroKnight cam cai guong_45: -1381718421
+      HeroKnight cam cai guong_46: 1660635219
+      HeroKnight cam cai guong_47: 1336453025
+      HeroKnight cam cai guong_48: 1771521648
+      HeroKnight cam cai guong_49: -1076858805
+      HeroKnight cam cai guong_5: -329571078
+      HeroKnight cam cai guong_50: -1269565325
+      HeroKnight cam cai guong_51: -1481669744
+      HeroKnight cam cai guong_52: 948587655
+      HeroKnight cam cai guong_53: 2010378807
+      HeroKnight cam cai guong_54: 393006946
+      HeroKnight cam cai guong_55: -420639671
+      HeroKnight cam cai guong_56: -1849134987
+      HeroKnight cam cai guong_57: 1163689167
+      HeroKnight cam cai guong_58: -2093551324
+      HeroKnight cam cai guong_59: -1757247107
+      HeroKnight cam cai guong_6: -883723996
+      HeroKnight cam cai guong_60: 504764235
+      HeroKnight cam cai guong_61: 240457386
+      HeroKnight cam cai guong_62: -1883982841
+      HeroKnight cam cai guong_63: 412216626
+      HeroKnight cam cai guong_64: -364427620
+      HeroKnight cam cai guong_65: -1392231761
+      HeroKnight cam cai guong_66: 410177139
+      HeroKnight cam cai guong_67: -1499112425
+      HeroKnight cam cai guong_68: 1646792250
+      HeroKnight cam cai guong_69: 2123677898
+      HeroKnight cam cai guong_7: -1192591303
+      HeroKnight cam cai guong_70: 215139664
+      HeroKnight cam cai guong_71: -845922989
+      HeroKnight cam cai guong_72: -393815535
+      HeroKnight cam cai guong_73: 496252144
+      HeroKnight cam cai guong_74: 701558126
+      HeroKnight cam cai guong_75: -39121010
+      HeroKnight cam cai guong_76: 1214114853
+      HeroKnight cam cai guong_77: -81078179
+      HeroKnight cam cai guong_78: 1658127566
+      HeroKnight cam cai guong_79: -664227578
+      HeroKnight cam cai guong_8: 728033727
+      HeroKnight cam cai guong_80: -1965696721
+      HeroKnight cam cai guong_81: -777840700
+      HeroKnight cam cai guong_82: 1671043275
+      HeroKnight cam cai guong_83: -717551532
+      HeroKnight cam cai guong_84: -1485570722
+      HeroKnight cam cai guong_85: 1948090359
+      HeroKnight cam cai guong_86: -1768823067
+      HeroKnight cam cai guong_87: -1775375846
+      HeroKnight cam cai guong_88: -274182415
+      HeroKnight cam cai guong_89: -2066772657
+      HeroKnight cam cai guong_9: -1323911746
+      HeroKnight cam cai guong_90: -1539707808
+      HeroKnight cam cai guong_91: 43069859
+      HeroKnight cam cai guong_92: 1216338549
+      HeroKnight cam cai guong_93: -1035980305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
